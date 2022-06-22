@@ -1,4 +1,4 @@
-# Letter Generator
+# Word Doc Generator
 This small script takes data from an Excel workbook, extract relevant information and generate a letter for printing in Word Doc format.
 
 See "template.docx" to get a sense of what the final output should look like. For each "<< SomeDataHere >>" in the template, we get it from Excel workbook "input_database.xlsx"
